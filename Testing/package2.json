@@ -1,0 +1,17 @@
+{
+  "name": "doggo",
+  "version": "1.0.0",
+  "description": "doggo competition",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon test.js",
+    "test": "mocha test.js"
+  },
+  "author": "2kjen",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.16"
+  }
+}
